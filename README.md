@@ -38,7 +38,7 @@
 
 
 ## 2. Реализация программы
-## Код
+
     #include <stdio.h>
     #include <locale.h>
     
