@@ -36,7 +36,7 @@
 ### Блок схема
 <img width="574" height="529" alt="image" src="https://github.com/user-attachments/assets/6411fbb5-0983-4b80-b869-5dd337e075df" />
 
-https://app.diagrams.net/
+
 ## 2. Реализация программы
 ## Код
     #include <stdio.h>
