@@ -30,9 +30,7 @@
     Иначе:
         Вывести " копеек"
 
-6. Вывести символ новой строки
-
-7. Конец
+6. Конец
 ### Блок схема
 <img width="574" height="529" alt="image" src="https://github.com/user-attachments/assets/6411fbb5-0983-4b80-b869-5dd337e075df" />
 
@@ -68,8 +66,6 @@
         else
             printf("%d копеек", kop);
         }
-    
-        printf("\n");
         
         return 0;
     }
