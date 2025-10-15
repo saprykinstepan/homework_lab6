@@ -1,6 +1,7 @@
 # homework_lab6
 ## Условие задачи
 <img width="817" height="79" alt="image" src="https://github.com/user-attachments/assets/32335829-d08e-43c7-9a0b-704cdbab13ea" />
+
 ## Алгоритм
 Начало
 1. Объявить переменные:
