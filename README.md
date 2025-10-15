@@ -2,7 +2,8 @@
 ## Условие задачи
 <img width="817" height="79" alt="image" src="https://github.com/user-attachments/assets/32335829-d08e-43c7-9a0b-704cdbab13ea" />
 
-## Алгоритм
+## 1. Алгоритм и блок схема
+### Алгоритм
 Начало
 1. Объявить переменные:
    - rubl - количество рублей
@@ -32,6 +33,8 @@
 6. Вывести символ новой строки
 
 7. Конец
+### Блок схема
+blob:https://app.diagrams.net/388d7b14-43eb-499c-a114-61b87aa4c946
 ## Код
     #include <stdio.h>
     #include <locale.h>
